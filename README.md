@@ -13,13 +13,14 @@ We are a group of practitioners who have been deeply involved in the field for m
 
 ## What will this manual cover?
 Let's complete three key journeys together:
-📚 Understanding the Essence of DeAI:  We won't delve into academic papers. Starting from "What is Decentralized AI," we will explain the core concepts, technical architecture, and value proposition of DeAI in the most straightforward language, and see the fundamental differences between DeAI and traditional AI. 
 
-🛠️ Build Your DeAI Scaffold:  Theory is never as real as practice. We share 5 types of projects that developers can "directly implement" from the most practical perspective, and finally obtain a technical map from the developer's perspective. 
+**📚 Understanding the Essence of DeAI**:  We won't delve into academic papers. Starting from "What is Decentralized AI," we will explain the core concepts, technical architecture, and value proposition of DeAI in the most straightforward language, and see the fundamental differences between DeAI and traditional AI. 
 
-🌐 Integrate into the DeAI ecosystem: DeAI is not a solo battle. We will recommend active communities ( where to find like-minded developers), projects worth following, and practical opportunities ( how to contribute code, run nodes, participate in governance, job opportunities, etc.) 
+**🛠️ Build Your DeAI Scaffold**:  Theory is never as real as practice. We share 5 types of projects that developers can "directly implement" from the most practical perspective, and finally obtain a technical map from the developer's perspective. 
 
-The goal of this manual is simple:  ** to enable you to understand DeAI within 30 minutes, get hands-on experience within a few hours, and allow more AI and Web3 developers to smoothly transition within a few weeks, ultimately becoming a participant in the DeAI ecosystem. **
+** 🌐 Integrate into the DeAI ecosystem**: DeAI is not a solo battle. We will recommend active communities ( where to find like-minded developers), projects worth following, and practical opportunities ( how to contribute code, run nodes, participate in governance, job opportunities, etc.) 
+
+The goal of this manual is simple:  **to enable you to understand DeAI within 30 minutes, get hands-on experience within a few hours, and allow more AI and Web3 developers to smoothly transition within a few weeks, ultimately becoming a participant in the DeAI ecosystem.**
 
 ## Three Principles
 1. Small but beautiful: Not pursuing large and comprehensive, but only focusing on core concepts + runnable code
