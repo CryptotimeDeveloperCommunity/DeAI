@@ -1,5 +1,7 @@
 
-![poster](./imgs/poster.png)
+<div align="center">
+  <img src="./imgs/poster.png" alt="poster" width="50%">
+</div>
 
 
 # DeAI Beginner’s Handbook
