@@ -53,6 +53,7 @@ After the DeFi and NFT booms, the blockchain industry needs new narratives, and 
 ### Who are we?
 We are a group of practitioners who have been deeply involved in the field for many years inthe AI developer communityandthe Web3 domain, having participated in multiple open-source Web3 projects and communities, witnessed the rapid development of centralized AI, and also experienced the narrative of the infinite imaginative space of DeAI.
 What will this manual cover?
+
 Let's complete three key journeys together:
 
 📚 Understanding the Essence of DeAI:  We don't talk about papers. Starting from "What is decentralized AI", we explain the core concepts, technical architecture, and value proposition of DeAI in the most straightforward language, and see the essential differences between DeAI and traditional AI. 
@@ -67,7 +68,8 @@ The goal of this handbook is simple:  to enable you to understand DeAI within 30
 2. Down-to-earth: Enabling ordinary developers to "understand, use, and spread"
 3. Sustainable : Open source collaboration, continuously updated with technological evolution 
 We believe 
-The future of AI should not be in the hands of a few companies . When global developers can freely access computing power, train models, and deploy applications, and when users truly own their data and AI assistants,  this is what AI should be . 
+The future of AI should not be in the hands of a few companies . When global developers can freely access computing power, train models, and deploy applications, and when users truly own their data and AI assistants,  this is what AI should be .
+ 
 **This handbook is the starting point, and the real power lies in you -  reading it, using it, improving it, and spreading it.**
 
 ---
