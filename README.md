@@ -1,5 +1,5 @@
 
-![Uploading image.png…]()
+![poster](./imgs/poster.png)
 
 
 # DeAI Beginner’s Handbook
